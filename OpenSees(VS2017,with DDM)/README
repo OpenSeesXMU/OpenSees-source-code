@@ -1,0 +1,10 @@
+An OpenSees source code repository that can be directly built in Visual Studio 2017 (Tcl8.6 is required).
+
+This is a repository that can be used for response sensitivity analysis. 
+Examples can be found here:
+https://opensees.berkeley.edu/wiki/index.php/Tcl_input_files_for_the_provided_application_examples:
+
+
+Xiamen University
+
+
